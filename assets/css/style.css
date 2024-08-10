@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #626263e2;
   }
 
 .container {
@@ -30,8 +30,8 @@ form {
   border: none;
   cursor: pointer;
   display: block;
-  position: relative;
-  background-color: #676264;
+  position: relative; 
+  background-color: #e8199ca5;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
